@@ -8,10 +8,11 @@ class Result {
     public int[][] startTime = new int[1024][1024];
     public void test()
     {
-        System.out.println("����");
-        System.out.println("merge��֧");
-        System.out.println("��ͻmaster");
-        System.out.println("��ͻhot-fix");
-        System.out.println("push��github");
+        System.out.println("²âÊÔ");
+        System.out.println("merge·ÖÖ§");
+        System.out.println("³åÍ»master");
+        System.out.println("³åÍ»hot-fix");
+        System.out.println("pushµ½github");
+ System.out.println("从github上进行更改");
     }
 }
