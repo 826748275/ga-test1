@@ -10,6 +10,6 @@ class Result {
     {
         System.out.println("≤‚ ‘");
         System.out.println("merge∑÷÷ß");
-        System.out.println("≥ÂÕªhot-fix");
+        System.out.println("≥ÂÕªmaster");
     }
 }
