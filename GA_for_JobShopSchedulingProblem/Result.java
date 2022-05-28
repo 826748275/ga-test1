@@ -12,5 +12,6 @@ class Result {
         System.out.println("merge·ÖÖ§");
         System.out.println("³åÍ»master");
         System.out.println("³åÍ»hot-fix");
+        System.out.println("pushµ½github");
     }
 }
