@@ -9,5 +9,6 @@ class Result {
     public void test()
     {
         System.out.println("≤‚ ‘");
+        System.out.println("merge∑÷÷ß");
     }
 }
