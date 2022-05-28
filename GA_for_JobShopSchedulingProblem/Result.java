@@ -6,4 +6,8 @@ class Result {
     public int[] processIds = new int[1024];
     public int[][] endTime = new int[1024][1024];
     public int[][] startTime = new int[1024][1024];
+    public void test()
+    {
+        System.out.println("≤‚ ‘");
+    }
 }
